@@ -1,0 +1,23 @@
+The While Loop:
+    Allows a programmer to execute a block of code repeatedly while a certain condition is true. 
+Syntax: 
+    While condition:
+        #block of code
+
+The For Loop:
+    It is used to iterate over a sequence (such as a list, tuple, or string) and execute a block of code for each item in the sequence.
+Syntax:
+    for item in sequence:
+        #block of code
+
+For Loop vs. While Loop:
+    For loops are typically used when you know the number of iterations in advance or want to iterate over a sequence of values. You could use a for loop when you want to perform a fixed number of tasks or iterate over a list, tuple, or string.
+
+    While loops, on the other hand, are typically used when you don't know the number of iterations in advance or want to iterate until a certain condition is met. You could use a while loop when you want to perform a task until a certain condition is met or keep prompting the user for input until they enter a valid value.
+
+Rule to remeber for "FOR" loop:
+for i in range(start, stop, step)
+    Case 1: If the step is positive
+        start < stop
+    Case 2: If the step is negative
+        start > stop

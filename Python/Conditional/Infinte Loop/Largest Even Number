@@ -1,0 +1,24 @@
+numbers = [12, 7, 8, 15, 20, 10, 45]
+
+# Initialize variable to hold largest even number found
+largest_even = None
+
+# Initialize counter variable for while loop
+i = 0
+
+# While loop to iterate over each number in the list
+while i < len(numbers):
+    num = numbers[i]
+    i += 1
+
+    # Check if the number is even
+    if num % 2 == 0:
+        # If largest_even is None or the current number is greater than the current largest_even, update largest_even
+        if largest_even is None or num > largest_even:
+            largest_even = num
+
+# Output the largest even number found
+if largest_even is not None:
+    print(f"The largest even number in the list is {largest_even}.")
+else:
+    print("There are no even numbers in the list.")
