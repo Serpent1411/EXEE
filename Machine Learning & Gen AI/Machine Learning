@@ -13,3 +13,35 @@ Supervised Learning:
     It involves training a computer to make prediction based on the labeled data. The labeled data contains both inout and output for example images of dog with lable and other objects/living things labeled as not dog. This helps the computer to learn the patterns and make decisions.
 
     It is used in many applications such as image recognition, fraud detection and natural language proessing. It is a powerful tool used to make decisions based on the historical data.    
+
+    Application:
+    *   Real estate prediction 
+    *   Weather Forecasting 
+    *   Image classification
+    *   Spam Detection
+
+Unsupervised Learning:
+    It is a type of machine learning that is not dependent on the labeled data. It is more like self discovery where it finds the pattern own its own. It can be used for data compression and image recognition. For example it can be used to find the patterns in images and compress them without losing important information.
+
+    It is more like exploring the unknown and discovering hidden patterns in your data. 
+
+    Topic Modelling: it a type of unsupervised learning that can identify the underlying topics in a large corpus of the text data. It works by analyzing the patterns of the word usage in the text and grouping them together words tend to appear together.
+
+    Application:
+    *   Document theme extraction
+    *   Customer Segmentation
+    *   Insurance Fraud Detection
+    *   Delivery Store Optimization
+
+Reinforecement Learning:
+    In this the computer learns by interacting with the enviornment, receiving rewars for good behaviour and punishment for bad behaviour.
+
+    Application:
+    *   Used in robotics
+    *   Finnace trades
+    *   In film industry for vertual characters
+
+Deep Learning:
+    It is a subset of machine learning, which itself is a branch of artifical intelligence. It is based on the concept  of neural networks 
+
+
