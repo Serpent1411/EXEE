@@ -27,7 +27,7 @@ Unsupervised Learning:
 
     Topic Modelling: it a type of unsupervised learning that can identify the underlying topics in a large corpus of the text data. It works by analyzing the patterns of the word usage in the text and grouping them together words tend to appear together.
 
-    K-Means Clustering is a popular unsupervised algorithm used for grouping data points.
+    K q-Means Clustering is a popular unsupervised algorithm used for grouping data points.
 
     Application:
     *   Document theme extraction

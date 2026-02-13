@@ -1,0 +1,11 @@
+OOPs (Object Oriented Programming):
+It is a programming paradigm that is based on the concept of "Objects". In python OOPs is implemented through classes and objects. 
+
+A class is a blueprint for creating objects, which are instances od class. Each object has its own set of attributes and methods that define its own behaviour. Attributes are variables that hold data, and methods are functions that perform operations on that data. 
+
+Can define class using class keyword and create objects from that class using the contructor method __init__()
+
+Advantages:
+    *   code resuse
+    *   Modularity  
+    *   Encapsulation

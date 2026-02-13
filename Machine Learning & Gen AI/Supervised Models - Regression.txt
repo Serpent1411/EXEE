@@ -1,0 +1,2 @@
+Supervised models are types of machine learning that learn to make prediction and decisions based on the labeled data. The term "Supervised" refers to the process of an algorithm learning from the training dataset, which is like a teacher supervising the learning process.
+

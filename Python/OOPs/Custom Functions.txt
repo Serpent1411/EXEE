@@ -1,0 +1,14 @@
+Custom Functions:
+    These are the block of the code created by the programmer to perform specific task or operation within the program. It can be designed to take one or more input parameters, which can be used to customize its behaviour. 
+
+To create your own function use "def" keyword.
+Example:
+    
+def function_name(parameters :"Parameter Hints" = "Default Parameter Value"):
+    # function code goes here
+  return output_value
+
+Global and Local variables:
+    The variables that are defined inside the functions are known as local variable. Those variables that are defined outside of a function are known as Global variables.
+
+Note: Default parameter should always come after non - default paramters.  
