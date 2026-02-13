@@ -1,0 +1,15 @@
+Machine Learning:
+    It is like teaching computers to think. With it computers can learn from data, identify the patterns, and making predictions and decision without being told what to do.
+
+Types of Machine Learning:
+1. Supervised Learning:
+    It's like teaching the computer using labeled data and based on that data it makes decisions.
+2. Unsupervised Learning:
+    It looks for patterns and relatioships in the data own its own, upon which it makes the decisions.
+3. Reinforcement Learning:
+    A method to train the computer to learn by trail and error. In this computer learns by interacting with an enviornment and receives reward for making decision.
+
+Supervised Learning:
+    It involves training a computer to make prediction based on the labeled data. The labeled data contains both inout and output for example images of dog with lable and other objects/living things labeled as not dog. This helps the computer to learn the patterns and make decisions.
+
+    It is used in many applications such as image recognition, fraud detection and natural language proessing. It is a powerful tool used to make decisions based on the historical data.    
