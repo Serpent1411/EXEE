@@ -27,6 +27,8 @@ Unsupervised Learning:
 
     Topic Modelling: it a type of unsupervised learning that can identify the underlying topics in a large corpus of the text data. It works by analyzing the patterns of the word usage in the text and grouping them together words tend to appear together.
 
+    K-Means Clustering is a popular unsupervised algorithm used for grouping data points.
+
     Application:
     *   Document theme extraction
     *   Customer Segmentation
@@ -44,4 +46,12 @@ Reinforecement Learning:
 Deep Learning:
     It is a subset of machine learning, which itself is a branch of artifical intelligence. It is based on the concept  of neural networks 
 
-
+Types of Deep Learning:
+1. Artificial Neural Netwroks(ANNs):
+    It consist of the neural nodes that are connected to each other in a layered format. There is a input layer a, many hidden layer and a output layer.
+    They are versatile and can be applied to a broad range of tasks, from customer relationship management to predicting stock prices or classifying images, though they are not as efficient in processing spatial and sequential data as CNNs and RNNs.
+2. Convolutional Neural Networks(CNNs):
+    They are specifically designed to process pixel data and are used extensively in image recognition and processing. They are structured with convolutional layers that apply concolutional filters to the input, pooling layers that reduce dimensions, and fully connected layers similar to those in ANNs.
+    Primarly used in image and vedio recognition, Image classification, medical image analysis.
+3. Recurrent Neural Network:
+    In this the output from one step is fed as input for the next step. 
