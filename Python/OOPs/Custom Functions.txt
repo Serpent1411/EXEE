@@ -12,3 +12,6 @@ Global and Local variables:
     The variables that are defined inside the functions are known as local variable. Those variables that are defined outside of a function are known as Global variables.
 
 Note: Default parameter should always come after non - default paramters.  
+
+Recursion:
+    It is a concept of programming where a function calls itself from within its own.   
